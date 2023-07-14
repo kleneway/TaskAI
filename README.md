@@ -68,7 +68,7 @@ Please note that the contracts and transactions are still a work in progress.
 ## Contact
 
 kleneway@gmail.com
-[https://github.com/your-username/TaskAI](https://github.com/kleneway/TaskAI)
+[https://github.com/kleneway/TaskAI](https://github.com/kleneway/TaskAI)
 
 ```
 
