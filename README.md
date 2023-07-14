@@ -31,11 +31,10 @@ Please note that the contracts and transactions are still a work in progress.
 ## Installation
 
 1. Clone this repository
+
    ```sh
    git clone https://github.com/your-username/TaskAI.git
    ```
-
-````
 
 2. Install NPM packages
    ```sh
@@ -70,4 +69,7 @@ Please note that the contracts and transactions are still a work in progress.
 
 kleneway@gmail.com
 [https://github.com/your-username/TaskAI](https://github.com/kleneway/TaskAI)
-````
+
+```
+
+```
