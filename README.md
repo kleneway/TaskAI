@@ -12,6 +12,14 @@ This project is built with Flow, Cadence, Next.js, TypeScript, and Prisma.
 - Dashboard for agents to show current, completed, and incomplete tasks
 - Dashboard for bidders to show model details and financials
 
+Note that this project is still a work in progress.
+
+## Smart Contracts
+
+All of the smart contracts can be found in the `cadence/contracts` directory.
+The transactions can be found in the `cadence/transactions` directory.
+Please note that the contracts and transactions are still a work in progress.
+
 ## Installation
 
 1. Clone this repository
