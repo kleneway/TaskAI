@@ -6,10 +6,10 @@ const BidderDashboard: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Bidder Dashboard | TaskChain Application</title>
+        <title>Bidder Dashboard | TaskAI Application</title>
         <meta
           name="description"
-          content="Bidder Dashboard in TaskChain Application"
+          content="Bidder Dashboard in TaskAI Application"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

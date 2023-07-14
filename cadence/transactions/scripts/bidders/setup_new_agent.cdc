@@ -1,4 +1,4 @@
-// This script sets up a new agent on an account in the TaskChain.
+// This script sets up a new agent on an account in the TaskAI.
 //
 // Parameters:
 // - pluginManifest: The manifest of the plugin to deploy as the agent.

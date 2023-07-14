@@ -1,6 +1,6 @@
-// Provides utility functions and data structures used throughout the TaskChain smart contracts.
+// Provides utility functions and data structures used throughout the TaskAI smart contracts.
 
-pub contract TaskChainUtility {
+pub contract TaskAIUtility {
 
     pub struct Task {
         pub let id: UInt64
@@ -33,7 +33,7 @@ pub contract TaskChainUtility {
     }
 
     pub fun isTaskExpired(deadline: UFix64): Bool {
-        let currentTime = TaskChainUtility.getCurrentTime()
+        let currentTime = TaskAIUtility.getCurrentTime()
         return deadline <= currentTime
     }
 

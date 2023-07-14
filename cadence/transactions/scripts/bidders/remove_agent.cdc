@@ -1,4 +1,4 @@
-// This script removes the agent resource from an account in the TaskChain.
+// This script removes the agent resource from an account in the TaskAI.
 //
 // Parameters:
 // - agentAddress: The address of the account to remove the agent from.

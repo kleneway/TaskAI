@@ -1,4 +1,4 @@
-// This script returns the list of bids for a specific task in the TaskChain.
+// This script returns the list of bids for a specific task in the TaskAI.
 //
 // Parameters:
 // - requesterAddress: The address of the account that requested the task.

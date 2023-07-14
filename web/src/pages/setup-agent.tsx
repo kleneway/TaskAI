@@ -19,10 +19,10 @@ const SetupAgent: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Setup Agent | TaskChain Application</title>
+        <title>Setup Agent | TaskAI Application</title>
         <meta
           name="description"
-          content="Setup a new agent in TaskChain Application"
+          content="Setup a new agent in TaskAI Application"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

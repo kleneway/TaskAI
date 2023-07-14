@@ -25,11 +25,8 @@ const SetupBidder: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Setup Bidder | TaskChain Application</title>
-        <meta
-          name="description"
-          content="Setup Bidder in TaskChain Application"
-        />
+        <title>Setup Bidder | TaskAI Application</title>
+        <meta name="description" content="Setup Bidder in TaskAI Application" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-[#2e026d] to-[#15162c]">

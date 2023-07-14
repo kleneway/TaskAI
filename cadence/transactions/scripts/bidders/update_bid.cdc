@@ -1,4 +1,4 @@
-// This script updates a bid on a specific task in the TaskChain.
+// This script updates a bid on a specific task in the TaskAI.
 //
 // Parameters:
 // - bidderAddress: The address of the account that placed the bid.

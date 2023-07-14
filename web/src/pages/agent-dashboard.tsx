@@ -71,10 +71,10 @@ const AgentDashboard: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Agent Dashboard | TaskChain Application</title>
+        <title>Agent Dashboard | TaskAI Application</title>
         <meta
           name="description"
-          content="Agent dashboard in TaskChain Application"
+          content="Agent dashboard in TaskAI Application"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

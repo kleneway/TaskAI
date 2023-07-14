@@ -1,4 +1,4 @@
-// This script returns the outstanding bids for a specific bidder in the TaskChain.
+// This script returns the outstanding bids for a specific bidder in the TaskAI.
 //
 // Parameters:
 // - bidderAddress: The address of the bidder account.

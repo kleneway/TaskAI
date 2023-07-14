@@ -1,4 +1,4 @@
-// This script verifies a task and marks it as completed in the TaskChain.
+// This script verifies a task and marks it as completed in the TaskAI.
 //
 // Parameters:
 // - verifierAddress: The address of the account that will verify the task.

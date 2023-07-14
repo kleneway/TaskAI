@@ -1,4 +1,4 @@
-// This script returns the list of tasks without any bids in the TaskChain.
+// This script returns the list of tasks without any bids in the TaskAI.
 //
 // Parameters:
 // - requesterAddress: The address of the account to check for tasks.
